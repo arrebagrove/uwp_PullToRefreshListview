@@ -1,3 +1,9 @@
+This project will update no more.  
+
+For better Pull to refersh control. See:  
+[PullToRefreshUWP_WindowsComposition](https://github.com/JustinXinLiu/PullToRefreshUWP_WindowsComposition)  
+[AmazingPullToRefresh](https://github.com/tmyt/AmazingPullToRefresh)  
+
 #Introduction
 This is a pull to refresh listview for uwp(universal windows platform)
 
